@@ -3,5 +3,6 @@
 
 
 
-GET https://api.thedogapi.com/v1/breeds
+GET https://api.thecatapi.com/v1/breeds
+Authorization: 7ae6ac0d-0570-4038-aa40-289cce48ab92
 

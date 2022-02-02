@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-get "gifs" => "gifs#index"
+  get "/cats" => "cats#index"
 end
