@@ -1,8 +1,11 @@
 
-# gifs index search
 
 
 
-GET https://api.thecatapi.com/v1/breeds
-Authorization: 7ae6ac0d-0570-4038-aa40-289cce48ab92
+# GET https://api.thecatapi.com/v1/images/search?category_ids=1
+# X-api-key: Your API key
 
+
+###
+
+GET http://localhost:3000/cats
